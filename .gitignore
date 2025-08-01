@@ -1,0 +1,9 @@
+asterisk_conf/asterisk-22.5.1/contrib/ast-db-manage/queue_log/env.py
+asterisk_conf/asterisk-22.5.1/contrib/ast-db-manage/config/env.py
+asterisk_conf/asterisk-22.5.1/contrib/ast-db-manage/cdr/env.py
+asterisk_conf/asterisk-22.5.1/CHANGES.html
+asterisk_conf/asterisk-22.5.1/CHANGES*
+asterisk_conf/asterisk-22.5.1/apps/app_voicemail_imap.c
+asterisk_conf/asterisk-22.5.1/apps/app_voicemail_odbc.c
+asterisk_conf/asterisk-22.5.1/apps/app_voicemail_odbc.exports.in
+asterisk_conf/asterisk-22.5.1/apps/app_voicemail_imap.exports.in
