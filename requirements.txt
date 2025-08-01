@@ -1,0 +1,7 @@
+SQLAlchemy
+pandas
+numpy
+librosa
+pydub
+soundfile
+PAMI # Asterisk AMI/AGI連携用ライブラリ
